@@ -11,7 +11,7 @@ body {
   width: 694px;
 }
 header {
-	background-color: #f7f060;
+	background-color: rgba(247, 240, 96,0.5);
 }
 #head-inner {
     padding: 25px 0;
